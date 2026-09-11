@@ -237,3 +237,6 @@ This repository serves as the official landing page for InterVideo Home Theater.
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of InterVideo Home Theater today!**
+
+---
+**Last updated:** 2026-09-11 22:05:00 UTC
