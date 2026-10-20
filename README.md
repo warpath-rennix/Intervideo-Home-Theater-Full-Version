@@ -239,4 +239,4 @@ This repository serves as the official landing page for InterVideo Home Theater.
 **Get the most recent version of InterVideo Home Theater today!**
 
 ---
-**Last updated:** 2026-10-20 05:29:38 UTC
+**Last updated:** 2026-10-20 10:34:14 UTC
